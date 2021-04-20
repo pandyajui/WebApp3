@@ -2,5 +2,8 @@
 
 This project is a homework assignment to teach how to get Pycharm setup with Docker, FLask, MySQL, and Postman.
 
-<h2>Postman Screenshot</h2>
+#SQL Data Screenshot
+![pycharm data query](screenshots/query.png)
 
+#Postman screenshot
+![postman screenshot](screenshots/postman.png)
