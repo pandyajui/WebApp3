@@ -7,3 +7,6 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 #Postman screenshot
 ![postman screenshot](screenshots/postman.png)
+
+#IndexPage screenshot
+![index screenshot](screenshots/localpage.png)
