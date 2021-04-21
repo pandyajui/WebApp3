@@ -8,8 +8,8 @@ CREATE TABLE IF NOT EXISTS biostats
     `Sex`        VARCHAR(10) CHARACTER SET utf8,
     `Age`        INT,
     `Height_in`  INT,
-    `Weight_lbs` INT
-        primary key (id)
+    `Weight_lbs` INT,
+        PRIMARY KEY (id)
 
 );
 INSERT INTO biostats (Name, Sex, Age, Height_in, Weight_lbs)
